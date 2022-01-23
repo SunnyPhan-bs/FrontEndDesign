@@ -1,0 +1,16 @@
+/* table th {
+text-align:left;
+background-color:  #3a6703;
+padding: 4px 30px 4px 8px;
+color: #fff;
+}
+table td {
+    border: 1px solid #e3e3e3;
+    padding: 4px 8px;
+}
+table {
+    border-collapse: collapse;
+}
+tr:nth-child(odd) {
+    background-color:#3a6703; color:#fff
+} */

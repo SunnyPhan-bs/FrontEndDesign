@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+}
+
+.text-catdetblue {
+    color: cadetblue;
+}
+
+.bg-color-coral {
+    background-color: coral;
+}
+
+#van-anh {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* 
+    class - gom nhom mot so phan tu co chung mot style nao do? 
+    <div class="mau-cam">    
+    <p class="mau-cam">    
+    <h1 class="mau-cam nen-xanh">    
+    Mot phan tu hoan toan co the co nhieu class
+    Moi class khi khai bao cach nhau bang dau khoang trang
+    De selector mot class trong CSS dung dau "." phia truoc
+    .mau-cam { // Viet CSS o day }
+    .nen-xanh { // Viet CSS o day }
+*/
+
+
+/* 
+    id - dinh danh duy nhat mot phan tu co mot style nao do 
+    <div id="mau-xanh" class="mau-cam">
+    De selector mot class trong CSS dung dau "#" phia truoc
+    #mau-xanh {
+    }
+*/
