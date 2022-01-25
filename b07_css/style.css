@@ -1,0 +1,35 @@
+/* 
+    Reset CSS -> Reset lai cac gia tri mac dinh cua browser
+        -> margin, padding, text-decoration, list-style, 
+        -> border, color, font-family
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bg-image {
+    width: 800px;
+    background-color: #ddd;
+    background-image: url("./images/bg.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 0 auto 50px auto;
+}
+
+.cover-box {
+    height: 320px;
+}
