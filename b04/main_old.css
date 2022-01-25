@@ -1,0 +1,46 @@
+
+/* table {
+    border: 2px solid blue;
+}
+
+th {
+    border: 2px solid blue;
+}
+
+td {
+    border: 2px solid blue;
+} */
+
+/* Inline style="???", Internal <style>???</style>, External */
+
+table {
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    width: 730px;
+}
+table, th, td {
+    border: 1px solid #dddddd;
+}
+
+th, td {
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+td:nth-child(1) {
+    font-weight: bold;
+    text-align: center;
+}
+
+tr:nth-child(2) {
+    height: 100px;
+}
+
+/* td {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+} */
