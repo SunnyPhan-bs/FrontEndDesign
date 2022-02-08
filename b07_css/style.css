@@ -33,3 +33,12 @@ body {
 .cover-box {
     height: 320px;
 }
+
+
+.bg-image h1 {
+    display: none;
+}
+
+.bg-image:hover h1 {
+    display: block;
+}
